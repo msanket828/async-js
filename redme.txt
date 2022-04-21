@@ -1,0 +1,6 @@
+# ----------------------------- problem statement ---------------------------- #
+
+   # ----------------------- icecream parlour order system ---------------------- #
+
+   1) customer order icecream
+   2) icecream production/making icecream to serve customer
